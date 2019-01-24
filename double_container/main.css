@@ -1,0 +1,25 @@
+header {
+    height: 100px;
+    background: #823B99;
+}
+
+header > div {
+    height: 100%;
+    background-color: mediumturquoise;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+section {
+    height: 90vh;
+    background: pink;
+}
+
+section > div {
+    height: 100%;
+    background-color: rgb(87, 187, 87);
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
